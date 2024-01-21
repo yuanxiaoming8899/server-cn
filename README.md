@@ -1,71 +1,56 @@
-<p align="center">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
     <a href="https://github.com/gotify/logo">
-        <img height="370px" src="https://raw.githubusercontent.com/gotify/logo/master/gotify-logo.png" />
+        <img height="370px" src="https://raw.githubusercontent.com/gotify/logo/master/gotify-logo.png" style="max-width: 100%;">
     </a>
 </p>
-
-<h1 align="center">gotify/server</h1>
-
-<p align="center">
+<h1 align="center" tabindex="-1" dir="auto"><a id="user-content-gotifyserver" class="anchor" aria-hidden="true" tabindex="-1" href="#gotifyserver"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取/服务器</font></font></h1>
+<p align="center" dir="auto">
     <a href="https://github.com/gotify/server/actions?query=workflow%3Abuild">
-        <img alt="Build Status" src="https://github.com/gotify/server/workflows/build/badge.svg">
+        <img alt="构建状态" src="https://github.com/gotify/server/workflows/build/badge.svg" style="max-width: 100%;">
     </a>
-    <a href="https://codecov.io/gh/gotify/server">
-        <img alt="codecov" src="https://codecov.io/gh/gotify/server/branch/master/graph/badge.svg">
+    <a href="https://codecov.io/gh/gotify/server" rel="nofollow">
+        <img alt="代码科夫" src="https://camo.githubusercontent.com/149719d2b584551a8c0f21dc8e8e5ed8f6964035b0b0109865816de2fb1e49f8/68747470733a2f2f636f6465636f762e696f2f67682f676f746966792f7365727665722f6272616e63682f6d61737465722f67726170682f62616467652e737667" data-canonical-src="https://codecov.io/gh/gotify/server/branch/master/graph/badge.svg" style="max-width: 100%;">
     </a>
-    <a href="https://goreportcard.com/report/github.com/gotify/server">
-        <img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/gotify/server">
+    <a href="https://goreportcard.com/report/github.com/gotify/server" rel="nofollow">
+        <img alt="去报告卡" src="https://camo.githubusercontent.com/0e9ae5f9733aa2f8aac175d884e18c805c208d453841c0c54783f60d926f6fe9/68747470733a2f2f676f7265706f7274636172642e636f6d2f62616467652f6769746875622e636f6d2f676f746966792f736572766572" data-canonical-src="https://goreportcard.com/badge/github.com/gotify/server" style="max-width: 100%;">
     </a>
-    <a href="https://matrix.to/#/#gotify:matrix.org">
-        <img alt="Matrix" src="https://img.shields.io/matrix/gotify:matrix.org.svg">
+    <a href="https://matrix.to/#/#gotify:matrix.org" rel="nofollow">
+        <img alt="矩阵" src="https://camo.githubusercontent.com/9567d3b271a28683896c0c3e23ca43d7dabd4a26523c9af24356669d52fe84c7/68747470733a2f2f696d672e736869656c64732e696f2f6d61747269782f676f746966793a6d61747269782e6f72672e737667" data-canonical-src="https://img.shields.io/matrix/gotify:matrix.org.svg" style="max-width: 100%;">
     </a>
-    <a href="https://hub.docker.com/r/gotify/server">
-        <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/gotify/server.svg">
+    <a href="https://hub.docker.com/r/gotify/server" rel="nofollow">
+        <img alt="Docker 拉取" src="https://camo.githubusercontent.com/aa65b5378b3fe40786c22a8fef4fabd532cbfa6b3759fdbf279dde87397a862f/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f676f746966792f7365727665722e737667" data-canonical-src="https://img.shields.io/docker/pulls/gotify/server.svg" style="max-width: 100%;">
     </a>
     <a href="https://github.com/gotify/server/releases/latest">
-        <img alt="latest release" src="https://img.shields.io/github/release/gotify/server.svg">
+        <img alt="最新发布" src="https://camo.githubusercontent.com/8a4552505931bf3b21a8ef70c338ac24448eedd6bd11afa4c192b9fbcaa71d27/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f676f746966792f7365727665722e737667" data-canonical-src="https://img.shields.io/github/release/gotify/server.svg" style="max-width: 100%;">
     </a>
 </p>
-
-## Intro
-We wanted a simple server for sending and receiving messages (in real time per WebSocket). For this, not many open source projects existed and most of the existing ones were abandoned. Also, a requirement was that it can be self-hosted. We know there are many free and commercial push services out there.
-
-## Features
-
-<img alt="Gotify UI screenshot" src="ui.png" align="right" width="500px"/>
-
-* send messages via REST-API
-* receive messages via WebSocket
-* manage users, clients and applications
-* [Plugins](https://gotify.net/docs/plugin)
-* Web-UI -> [./ui](ui)
-* CLI for sending messages -> [gotify/cli](https://github.com/gotify/cli)
-* Android-App -> [gotify/android](https://github.com/gotify/android)
-
-[<img src="https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" width="150" />][playstore]
-[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" width="150"/>][fdroid]
-
-<sub>(Google Play and the Google Play logo are trademarks of Google LLC.)</sub>
-
----
-
-**[Documentation](https://gotify.net/docs)**
-
-[Install](https://gotify.net/docs/install) ᛫
-[Configuration](https://gotify.net/docs/config) ᛫
-[REST-API](https://gotify.net/api-docs) ᛫
-[Setup Dev Environment](https://gotify.net/docs/dev-setup)
-
-## Contributing
-
-We welcome all kinds of contribution, including bug reports, feature requests, documentation improvements, UI refinements, etc. Check out [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## Versioning
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the
-[tags on this repository](https://github.com/gotify/server/tags).
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
- [playstore]: https://play.google.com/store/apps/details?id=com.github.gotify
- [fdroid]: https://f-droid.org/de/packages/com.github.gotify/
+<h2 tabindex="-1" dir="auto"><a id="user-content-intro" class="anchor" aria-hidden="true" tabindex="-1" href="#intro"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">介绍</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们想要一个简单的服务器来发送和接收消息（每个 WebSocket 实时）。</font><font style="vertical-align: inherit;">为此，开源项目并不多，大多数现有项目都被放弃了。</font><font style="vertical-align: inherit;">此外，还有一个要求是它可以自行托管。</font><font style="vertical-align: inherit;">我们知道有许多免费和商业推送服务。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-features" class="anchor" aria-hidden="true" tabindex="-1" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h2>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/gotify/server/blob/master/ui.png"><img alt="Gotify UI 截图" src="/gotify/server/raw/master/ui.png" align="right" width="500px" style="max-width: 100%;"></a></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过 REST-API 发送消息</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过 WebSocket 接收消息</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">管理用户、客户端和应用程序</font></font></li>
+<li><a href="https://gotify.net/docs/plugin" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">插件</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Web-UI -&gt; </font></font><a href="/gotify/server/blob/master/ui"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">./ui</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于发送消息的 CLI -&gt; </font></font><a href="https://github.com/gotify/cli"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gotify/cli</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Android 应用程序 -&gt; </font></font><a href="https://github.com/gotify/android"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gotify/android</font></font></a></li>
+</ul>
+<p dir="auto"><a href="https://play.google.com/store/apps/details?id=com.github.gotify" rel="nofollow"><img src="https://camo.githubusercontent.com/aee15ea128c5c1b7b0502870ed6b8aa8bd44c3cb7bde686278a5561a816c9cb5/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f67622f6261646765732f696d616765732f67656e657269632f656e5f62616467655f7765625f67656e657269632e706e67" alt="在 Google Play 上获取" width="150" data-canonical-src="https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png" style="max-width: 100%;"></a>
+<a href="https://f-droid.org/de/packages/com.github.gotify/" rel="nofollow"><img src="https://camo.githubusercontent.com/6079bf6adc19d9fc0b1c7b3088a957e0f6f50cfa9a872f7404bb9b67cc57c6be/68747470733a2f2f662d64726f69642e6f72672f62616467652f6765742d69742d6f6e2e706e67" alt="在 F-Droid 上获取" width="150" data-canonical-src="https://f-droid.org/badge/get-it-on.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（Google Play 和 Google Play 徽标是 Google LLC 的商标。）</font></font></sub></p>
+<hr>
+<p dir="auto"><strong><a href="https://gotify.net/docs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a></strong></p>
+<p dir="auto"><a href="https://gotify.net/docs/install" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">᛫
+</font></font><a href="https://gotify.net/docs/config" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">᛫
+ </font></font><a href="https://gotify.net/api-docs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">REST-API</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ᛫
+</font></font><a href="https://gotify.net/docs/dev-setup" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置开发环境</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-contributing" class="anchor" aria-hidden="true" tabindex="-1" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们欢迎各种贡献，包括错误报告、功能请求、文档改进、UI 改进等。查看</font></font><a href="/gotify/server/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CONTRIBUTING.md</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获取指南。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-versioning" class="anchor" aria-hidden="true" tabindex="-1" href="#versioning"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">版本控制</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们使用</font></font><a href="http://semver.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SemVer</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进行版本控制。</font><font style="vertical-align: inherit;">有关可用版本，请参阅
+</font></font><a href="https://github.com/gotify/server/tags"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此存储库上的标签</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" tabindex="-1" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目已根据 MIT 许可证获得许可 -</font><font style="vertical-align: inherit;">有关详细信息，请参阅</font></font><a href="/gotify/server/blob/master/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可证文件</font></font></a><font style="vertical-align: inherit;"></font></p>
+</article></div>
